@@ -17,6 +17,8 @@
 # # after adding data and changing the competition slug, 
 # # uncomment the above line
 private/
+ubc_data_submission/
+ubc_data/
 
 
 

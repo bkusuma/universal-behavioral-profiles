@@ -1,3 +1,4 @@
+ipykernel
 numpy==2.1
 pandas==2.2.3
 pytorch_lightning==2.2.4
