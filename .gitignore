@@ -19,6 +19,7 @@
 private/
 ubc_data_submission/
 ubc_data/
+.neptune/
 
 
 
