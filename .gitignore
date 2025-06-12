@@ -10,18 +10,21 @@
 # - macOS
 # - Windows
 
+
+### Other ###
+private/
+ubc_data_submission/
+ubc_data/
+.neptune/
+data/
+
+
 ### Kaggle ###
 # kaggle/input/{competition_slug}/**
 # # this is where to store your competition inputs since
 # # most competitions have rules about not sharing data
 # # after adding data and changing the competition slug, 
 # # uncomment the above line
-private/
-ubc_data_submission/
-ubc_data/
-.neptune/
-
-
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
