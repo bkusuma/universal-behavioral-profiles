@@ -26,9 +26,10 @@ botocore==1.37.8
     # via
     #   boto3
     #   s3transfer
-bravado==11.1.0
+# PackagesNotFoundError: The following packages are not available from current channels:
+# bravado==11.1.0
     # via neptune
-bravado-core==6.1.1
+# bravado-core==6.1.1
     # via bravado
 certifi==2025.1.31
     # via requests
