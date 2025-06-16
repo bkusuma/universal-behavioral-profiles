@@ -1,9 +1,5 @@
 import logging
-
 from pytorch_lightning.loggers import NeptuneLogger
-# from lightning.pytorch.loggers.neptune import NeptuneLogger, NeptuneScaleLogger
-# from pytorch_lightning.loggers.neptune import NeptuneScaleLogger as NeptuneLogger
-
 
 from training_pipeline.tasks import ValidTasks
 
